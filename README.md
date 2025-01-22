@@ -5,6 +5,8 @@ Simple emulator to run TI-Nspire python scripts.
 > [!WARNING]
 > This project is at a very early stage!
 
+![drawing example](example.png)
+Running `test_drawing.py` on the calculator *(left)* and using the simulator *(right)*.
 
 ## Usage
 
