@@ -64,7 +64,7 @@ def _run():
 
             elif event[0] == 'draw_text':
                 x, y, text = event[1]
-                print('Not implemented yet!')
+                _canvas.create_text((x, y), text=text, fill=_rgb_to_hex(color), anchor='sw')
             else:
                 print('Not implemented yet!')
 

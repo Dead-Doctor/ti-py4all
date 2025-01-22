@@ -9,3 +9,6 @@ fill_rect(80, 100, 100, 60)
 
 set_color(0, 0, 255)
 fill_rect(210, 30, 50, 100)
+
+set_color(0, 0, 0)
+draw_text(30, 40, 'Awesome text!')
